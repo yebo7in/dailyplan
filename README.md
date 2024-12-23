@@ -38,7 +38,6 @@ _Coming soon_
 
 1. Clone the repository
 ```
-
 git clone https://github.com/yebo7in/dailyplan.git
 ```
 
