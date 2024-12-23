@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://你的github用户名.github.io/dailyplan",
+  "homepage": "https://yebo7in.github.io/dailyplan",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,5 +13,20 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
