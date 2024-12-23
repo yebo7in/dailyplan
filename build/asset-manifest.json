@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dailyplan/static/css/main.06f666ff.css",
-    "main.js": "/dailyplan/static/js/main.12d92d32.js",
+    "main.css": "/dailyplan/static/css/main.04b734a5.css",
+    "main.js": "/dailyplan/static/js/main.d25d2927.js",
     "index.html": "/dailyplan/index.html",
-    "main.06f666ff.css.map": "/dailyplan/static/css/main.06f666ff.css.map",
-    "main.12d92d32.js.map": "/dailyplan/static/js/main.12d92d32.js.map"
+    "main.04b734a5.css.map": "/dailyplan/static/css/main.04b734a5.css.map",
+    "main.d25d2927.js.map": "/dailyplan/static/js/main.d25d2927.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f666ff.css",
-    "static/js/main.12d92d32.js"
+    "static/css/main.04b734a5.css",
+    "static/js/main.d25d2927.js"
   ]
 }
