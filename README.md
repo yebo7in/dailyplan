@@ -21,7 +21,8 @@ Visit [https://yebo7in.github.io/dailyplan](https://yebo7in.github.io/dailyplan)
 
 - Share your plan with others
 - Track your habits
-- sync with other app
+- Sync with other app
+- Fillters: by dates, by priorities
 
 ## Screenshots
 
