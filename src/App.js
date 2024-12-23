@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import './App.css';
+import Calendar from './components/Calendar';
 
 function App() {
   const [email, setEmail] = useState('');
+  const [showCalendar, setShowCalendar] = useState(false);
 
   // 处理按钮点击
   const handleGetStarted = () => {
-    alert('Welcome to Daily Plan! This feature is coming soon.');
+    setShowCalendar(true);
   };
 
   // 处理邮件订阅
@@ -112,6 +114,10 @@ function App() {
           <p>&copy; 2024 Daily Plan. All rights reserved.</p>
         </div>
       </footer>
+
+      {showCalendar && (
+        <Calendar onClose={() => setShowCalendar(false)} />
+      )}
     </div>
   );
 }
