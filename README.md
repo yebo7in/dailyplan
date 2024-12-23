@@ -16,6 +16,12 @@ Visit [https://yebo7in.github.io/dailyplan](https://yebo7in.github.io/dailyplan)
 - Daily task management
 - Mobile-responsive design
 - Easy to use and maintain
+- 
+## Coming Features
+
+- Share your plan with others
+- Track your habits
+- sync with other app
 
 ## Screenshots
 
