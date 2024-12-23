@@ -8,7 +8,7 @@ This is a simple web application that helps users manage and track their daily p
 
 ## Live Demo
 
-Visit [https://yebo7in.github.io/daily-plan](https://yebo7in.github.io/daily-plan) to see the live demo.
+Visit [https://yebo7in.github.io/daily-plan](https://yebo7in.github.io/dailyplan) to see the live demo.
 
 ## Features
 
