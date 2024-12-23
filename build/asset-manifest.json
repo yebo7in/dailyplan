@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dailyplan/static/css/main.06f666ff.css",
+    "main.js": "/dailyplan/static/js/main.12d92d32.js",
+    "index.html": "/dailyplan/index.html",
+    "main.06f666ff.css.map": "/dailyplan/static/css/main.06f666ff.css.map",
+    "main.12d92d32.js.map": "/dailyplan/static/js/main.12d92d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f666ff.css",
+    "static/js/main.12d92d32.js"
+  ]
+}
