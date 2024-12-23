@@ -1,11 +1,8 @@
 {
   "name": "client",
-  "homepage": "https://[你的github用户名].github.io/dailyplan",
+  "homepage": "https://你的github用户名.github.io/dailyplan",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    // ...
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -13,6 +10,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
-} 
